@@ -1,11 +1,11 @@
 {
   "frame": {
-    "name": "h",
+    "name": "newapp",
     "version": "1",
     "iconUrl": "https://f-demo.vercel.app/logo.png",
     "homeUrl": "https://f-demo.vercel.app/logo.png",
-    "subtitle": "h",
-    "description": "h",
+    "subtitle": "newapp",
+    "description": "newapp",
     "primaryCategory": "games",
     "splashImageUrl": "https://f-demo.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
