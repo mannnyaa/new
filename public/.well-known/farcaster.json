@@ -9,5 +9,10 @@
     "primaryCategory": "games",
     "splashImageUrl": "https://f-demo.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY4Nzc2OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDkxYTE1OTFDZGVBZTU2MzBEN2UwN0Y2NTBENDcwZTcxYjRjNDg1OTcifQ",
+    "payload": "eyJkb21haW4iOiJuZXctcnVzdC1maXZlLnZlcmNlbC5hcHAifQ",
+    "signature": "MHhhMjExYmU3Y2RiNDE5ZDA2ODYxMGRjODlkOGEwMjA1MzU4OTQwZTlmZjIxYmM0YTJkY2ViNGUxY2Q2ZGQzN2Y1NGI3YmJhMGRiNDQ4OWZkMzIxZTQ2YTIzOWUzMDk1ZmI0ZGJmNTJlNjAwMmVjM2Q5Mzk5ZDVlYWZjNGM5ZGU2OTFi"
   }
 }
